@@ -1,8 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
-## 11. Implementation of the concept of pointer to function.
-## 12. Implementation of programs using structure and union.
-## 13. Implementation of programs for different storage classes.
+
 # Ex.No:26
   Develop a C program using static storage class in function with parameter and without return to display the incremental float values as indicated in the following output.
 | Input | Output                                       |
